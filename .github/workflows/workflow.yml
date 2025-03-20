@@ -1,4 +1,4 @@
-name: directory-listing
+name: dms1
 on: [push]
 
 jobs:
